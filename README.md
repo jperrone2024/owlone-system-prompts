@@ -31,3 +31,13 @@ The following is a link to an agent which is equipped with the knowledge in this
 | FAU College of Nursing Assistant       | [Nursing Assistant](https://owlone.fau.edu/chat/7cadccd1-8048-4c28-9272-bf98769228c8) | General college of nursing assistant                                   |
 | FAU Sports Analyst Agent               | [Sports Analyst Agent](https://owlone.fau.edu/chat/9cd02409-5c60-47c9-ac97-828a062e35e6) | FAU and general sports analyst (fun agent)                             |
 | Stock Market Analyst                   | [Stock Market Agent](https://owlone.fau.edu/chat/254e7153-88e1-4d7a-90f3-43ee66cd3276) | General stock market news, trading, and pricing analyst agent          |
+
+## Additional Prompt Engineering Resources
+
+[AI at FAU](https://www.fau.edu/ai/)
+
+[Microsoft Copilot Prompt Gallery](https://copilot.cloud.microsoft/en-US/prompts?)
+
+[Cloudforce Prompt Template Library](https://github.com/cf-gbroady/PromptTemplateLibrary)
+
+[Applying AI at Scale](https://reprint.forrester.com/reports/use-the-right-lenses-to-bring-the-ai-kaleidoscope-into-focus-6f9e090c/index.html?ocid=eml_pg456778_gdc_comm_mw&mkt_tok=MTU3LUdRRS0zODIAAAGbiyD_lvxwOwkwsil7rtUS9YvnsDTR9HcPYxc35k4C8L-Q3TF23Z-GUDqlPsNreQPqu6Ve2PH3SW9wuTF7bIIytpV0LHfyDbu_4eooaGUkON9K6miI7BTvBbhZ)
