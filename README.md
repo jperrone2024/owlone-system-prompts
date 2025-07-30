@@ -41,3 +41,9 @@ The following is a link to an agent which is equipped with the knowledge in this
 [Cloudforce Prompt Template Library](https://github.com/cf-gbroady/PromptTemplateLibrary)
 
 [Applying AI at Scale](https://reprint.forrester.com/reports/use-the-right-lenses-to-bring-the-ai-kaleidoscope-into-focus-6f9e090c/index.html?ocid=eml_pg456778_gdc_comm_mw&mkt_tok=MTU3LUdRRS0zODIAAAGbiyD_lvxwOwkwsil7rtUS9YvnsDTR9HcPYxc35k4C8L-Q3TF23Z-GUDqlPsNreQPqu6Ve2PH3SW9wuTF7bIIytpV0LHfyDbu_4eooaGUkON9K6miI7BTvBbhZ)
+
+[Cloudforce nebulaONE Help Center (Public)](https://gocloudforce.atlassian.net/wiki/spaces/NQ/overview?homepageId=648675830)
+
+[Cloudforce nebulaONE Admin Documentation](https://gocloudforce.atlassian.net/wiki/home)
+
+[Independent AI Model Analysis](https://artificialanalysis.ai/)
